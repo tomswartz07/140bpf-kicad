@@ -10,5 +10,5 @@ Band-Pass Filter ideal for NOAA APT Satellite and UHF Amateur Radio reception.
 
 
 ### Board Images
-![top](tomswartz07.github.io/140bpf-kicad/top.png)
-![bottom](tomswartz07.github.io/140bpf-kicad/bottom.png)
+![top](https://tomswartz07.github.io/140bpf-kicad/top.png)
+![bottom](https://tomswartz07.github.io/140bpf-kicad/bottom.png)
