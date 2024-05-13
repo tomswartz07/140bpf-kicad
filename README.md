@@ -9,3 +9,6 @@ Band-Pass Filter ideal for NOAA APT Satellite and UHF Amateur Radio reception.
 - [140-BPF+ chip from MiniCircuits](https://www.minicircuits.com/WebStore/dashboard.html?model=RBP-140%2B)
 
 
+### Board Images
+![top](tomswartz07.github.io/140bpf-kicad/top.png)
+![bottom](tomswartz07.github.io/140bpf-kicad/bottom.png)
